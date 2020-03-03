@@ -1,2 +1,1 @@
-# dw_matrix_car
-Prognozowanie ceny samochodu
+# Prognozowanie ceny samochodu
